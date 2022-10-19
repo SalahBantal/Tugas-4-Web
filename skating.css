@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container-satu{
+
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    box-sizing: border-box;
+    
+}
+
+.textchampion{
+    color: white;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 40px;
+    font-size: 20px;
+    font-weight: 100px;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.hero{
+    filter:brightness(60%);
+}
+
+.text1{
+
+    color: white;
+    width: 702px;
+    height: 400px;
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 40px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.button{
+
+    margin-top: 500px;
+    margin-left: 40px;
+    position: absolute;
+    background-color: #31CEFF;
+    border-radius: 30px;
+    padding: 15px;
+    display: flex;
+    width: 170px;
+    justify-content: center;
+
+
+}
+
+.blue{
+
+    background-color: #31CEFF;
+    border: 1px solid #31CEFF;
+    padding: 5px;
+    color: white;
+    overflow: hidden;
+    font-size: 15px;
+}
+
+.Registration-Form{
+
+    color: white;
+    width: 702px;
+    height: 400px;
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 280px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-dua{
+
+    width: 600px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.container-tiga{
+    width: 600px;
+    display: flex;
+}
+
+.blue-line{
+    background-color: #31CEFF;
+    width: 3px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 19px;
+    display: flex;
+
+
+}
+
+.executive-text{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+
+}
+
+
+
