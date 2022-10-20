@@ -94,13 +94,13 @@ h2{
 }
 
 .container-tiga{
-    width: 600px;
+    width: 900px;
     display: flex;
 }
 
 .blue-line{
     background-color: #31CEFF;
-    width: 3px;
+    width: 4px;
     height: 40px;
     margin-left: 40px;
     margin-top: 19px;
@@ -116,6 +116,137 @@ h2{
     
 
 }
+
+.view{
+
+    position: absolute;
+    margin-left: 1260px;
+    margin-top: 10px;
+    color: #31CEFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.executive-caption{
+
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 70px;
+    width: 475px;
+}
+
+.container-empat{
+
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.container-lima{
+    width: 1130px;
+    margin: auto;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-left: 330px;
+    margin-bottom: 200px;
+    margin-top: -180px;
+    
+}
+.container-enam{
+    width: 1130px;
+    margin: auto;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-left: 330px;
+    margin-bottom: 200px;
+    margin-top: -110px;
+    color: rgb(196, 194, 194);
+    
+}
+
+.container-tujuh{
+
+    width: 1440px;
+    height: 513px;
+    margin: 100px auto;
+    background-color: #31CEFF;
+    display: flex;
+    position: relative;
+}
+
+.federation{
+
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+.federation-text{
+
+    font-family: Arial;
+    font-size: 28px;
+    letter-spacing: 1%;
+    line-height: 80px; 
+    color: white;
+    position: absolute;
+    align-self: center;
+    margin-left: 700px;
+    margin-top: -150px;
+}
+
+.federation-caption{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+    position: absolute;
+    align-self: center;
+    width: 655px;
+    margin-left: 700px;
+    margin-top: 120px;
+}
+
+.container-delapan{
+
+    width: 1440px;
+    position: relative;
+    display: flex;
+    margin: 100px auto;
+}
+
+.event{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+
+}
+
+
+.blue-line{
+    background-color: #31CEFF;
+    width: 4px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 19px;
+    display: flex;
+
+}
+
+.allevent{
+
+    position: absolute;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    margin-left: 1350px;
+}
+
+
 
 
 
