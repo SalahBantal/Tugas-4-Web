@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    margin-bottom: 1000px;
 }
 .container-satu{
 
@@ -41,7 +42,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     
 }
-.button{
+.button-blue{
 
     margin-top: 500px;
     margin-left: 40px;
@@ -52,8 +53,6 @@ body{
     display: flex;
     width: 170px;
     justify-content: center;
-
-
 }
 
 .blue{
@@ -238,13 +237,339 @@ h2{
 }
 
 .allevent{
-
+    color: #31CEFF;
     position: absolute;
     align-self: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14;
     margin-left: 1350px;
 }
+
+.event-caption{
+
+    width: 700px;
+    color: #969696;
+    position: absolute;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    margin-left: 40px;
+    margin-top: 100px;
+
+}
+
+.container-sembilan{
+
+    width: 1440px;
+    margin: 100px auto;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    position: relative;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    overflow: hidden;
+    border: 0px solid black ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+
+}
+
+.header{
+    width: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.sub-container1{
+    
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #969696;
+}
+
+.sub-container2{
+    
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #969696;
+}
+
+.sub-container3{
+    
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #969696;
+}
+
+.snow{
+    position: absolute;
+    overflow: hidden;
+    margin-left: 318px;
+    margin-top: -110px;
+}
+
+.container-sepuluh{
+
+    width: 1360px;
+    height: 419px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 20px;
+    background-color: #31CEFF;
+}
+
+.blue-container{
+
+    background-color: #31CEFF;
+    border:  #31CEFF;
+    border-radius: 25px;
+    position: relative;
+}
+
+.join{
+    padding: 20px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.caption-join{
+
+    padding: 20px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 634px;
+    margin-top: 100px;
+    text-align: justify;
+}
+
+.shoe-skating{
+    position: absolute;
+    margin-left: 800px;
+    margin-top: -70px;
+    height: 50px;
+    width: 60px;
+}
+
+.button-white{
+
+    margin-top: 300px;
+    margin-left: 25px;
+    position: absolute;
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 15px;
+    display: flex;
+    width: 170px;
+    justify-content: center;
+}
+
+.white{
+
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    color: #31CEFF;
+    overflow: hidden;
+    font-size: 15px;
+}
+
+.container-sebelas{
+    width: 1440px;
+    position: relative;
+    margin: 100px auto;
+    
+     
+}
+
+.rank{
+    text-align: center;
+
+}
+
+.table-rank{
+
+    margin: 50px auto;
+    margin-left: 40px;
+}
+
+table{
+    width: 1360px;
+    text-align: center;
+    border-radius: 20px 20px 0px 0px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px solid black ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+    
+    
+}
+
+.container-duabelas{
+
+    width: 1440px;
+    position: relative;
+    display: flex;
+    margin: 100px auto;
+}
+
+.news{
+
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+
+}
+
+
+.blue-bar{
+    background-color: #31CEFF;
+    width: 4px;
+    height: 40px;
+    margin-left: 40px;
+    margin-top: 19px;
+    display: flex;
+
+}
+
+.allevent{
+    color: #31CEFF;
+    position: absolute;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    margin-left: 1350px;
+}
+
+.event-caption{
+
+    width: 700px;
+    color: #969696;
+    position: absolute;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14;
+    margin-left: 40px;
+    margin-top: 100px;
+
+}
+
+.container-tigabelas{
+
+    width: 1440px;
+    position: 100px auto;
+    position: relative;
+    justify-content: space-around;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.article{
+
+    position: relative;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    border: 0px solid black ;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+    
+
+}
+
+.article-head{
+    width: 330px;
+    text-align: justify;
+    margin-left: 25px;
+}
+
+.article-caption{
+    width: 330px;
+    text-align: justify;
+    margin-left: 25px;
+    color: #646464;
+}
+.article-date{
+    margin-left: 25px;
+    color: #646464;
+}
+
+.figur-skating{
+    width: 120px;
+    text-align: center;
+    background-color: #E5F8FE;
+    color:#31CEFF;
+    padding: 0.1px;
+    border: 0px solid #31CEFF;
+    border-radius: 25px;
+    margin-left: 270px;
+    margin-top: -55px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.footer{
+    width: 1440px;
+    height: 580px;
+    margin: 100px auto;
+    background-color: #00485F;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.img-footer{
+
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 100px;
+}
+
+.logo-capt{
+    position: absolute;
+    color: white;
+    margin-top: 67px;
+    margin-left: 110px;
+}
+
+.capt{
+
+    position: absolute;
+    color: white;
+    width: 600px;
+    margin-left: 60px;
+    text-align: justify;
+    margin-top: 180px;
+
+}
+
+.member{
+    position: absolute;
+    color: white;
+    margin-left: 760px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact{
+
+    position: absolute;
+    color: white;
+    margin-left: 1100px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
 
 
 
